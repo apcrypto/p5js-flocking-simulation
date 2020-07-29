@@ -1,0 +1,20 @@
+.score {
+  color: #fff;
+  font-size: 25px;
+  margin-bottom: 400px;
+  position: absolute;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+}
+
+body {
+  overflow: hidden;
+}
+
+p {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: auto;
+  margin-left: auto;
+}
